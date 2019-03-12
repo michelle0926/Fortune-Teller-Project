@@ -1,0 +1,37 @@
+body {
+    text-align:center;
+    background-image:url(https://media.giphy.com/media/JIzGoJKPAHO2Q/giphy.gif);
+}
+
+.header {
+    display:flex;
+    flex-direction:column;
+    color:lightsteelBlue;
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.main {
+    display:flex;
+    flex-direction:column;
+    margin:8px;
+}
+
+button {
+    display:block;
+    align-self:center;
+    max-width:100px;
+    padding:10px;
+    color:teal;
+    
+}
+h2 {
+    color:powderBlue;
+    font-size:40px;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+p {
+    color:aquamarine;
+    font-size: 40px;
+    font-family: 'Economica', sans-serif;
+}
